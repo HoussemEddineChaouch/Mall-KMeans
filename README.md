@@ -1,4 +1,4 @@
-# Mall Customer Segmentation باستخدام K-Means
+# Mall Customer Segmentation K-Means
 
 ## Description
 This project applies K-Means clustering to segment mall customers based on:
